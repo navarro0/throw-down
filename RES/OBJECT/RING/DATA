@@ -1,0 +1,12 @@
+#STRING
+name:RING
+sprite_file:SPRITE.png
+hit_file:HITBOX.png
+
+#DATA:
+speed:2
+
+#FRAME:
+back_frame:10
+front_frame:10
+attack_damage:20,30
